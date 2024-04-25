@@ -74,7 +74,6 @@
           <artifactId>jetty-maven-plugin</artifactId>
           <version>8.1.10.v20130312</version>
         </plugin>
-               </plugin>
       </plugins>
     </pluginManagement>
   </build>
